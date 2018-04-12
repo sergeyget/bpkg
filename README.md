@@ -49,7 +49,7 @@ Our install script is the simplest way. It takes care of everything for you, pla
 Paste the following on your shell and you're good to go:
 
 ```sh
-$ curl -Lo- "https://raw.githubusercontent.com/bpkg/bpkg/master/setup.sh" | bash
+$ curl -Lo- "https://raw.githubusercontent.com/sergeyget/bpkg_advanced/master/setup.sh" | bash
 ```
 
 ### 2. clib
@@ -57,7 +57,7 @@ $ curl -Lo- "https://raw.githubusercontent.com/bpkg/bpkg/master/setup.sh" | bash
 [clib][clib] is a package manager for C projects. If you already have it, installing `bpkg` is a simple matter of:
 
 ```sh
-$ clib install bpkg/bpkg
+$ clib install sergeyget/bpkg_advanced
 ```
 
 ### 3. Source Code
@@ -65,7 +65,7 @@ $ clib install bpkg/bpkg
 To directly install `bpkg` from its source code you have to clone its repository and run the `setup.sh` script:
 
 ```sh
-$ git clone https://github.com/bpkg/bpkg.git
+$ git clone https://github.com/sergeyget/bpkg_advanced.git
 $ cd bpkg
 $ ./setup.sh
 ```
@@ -73,8 +73,8 @@ $ ./setup.sh
 Or in a directory with user write permission, like `$HOME/opt/bin`
 
 ```sh
-$ git clone https://github.com/bpkg/bpkg.git
-$ cd bpkg
+$ git clone https://github.com/sergeyget/bpkg_advanced.git
+$ cd bpkg_advanced
 $ PREFIX=$HOME/opt ./setup.sh
 ```
 
