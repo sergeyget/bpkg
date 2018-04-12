@@ -9,7 +9,7 @@ if [[ ${#BPKG_REMOTES[@]} -eq 0 ]]; then
   BPKG_REMOTES[0]=${BPKG_REMOTE-https://raw.githubusercontent.com}
   BPKG_GIT_REMOTES[0]=${BPKG_GIT_REMOTE-https://github.com}
 fi
-BPKG_USER="${BPKG_USER:-bpkg}"
+BPKG_USER="${BPKG_USER:-sergeyget}"
 
 ## check parameter consistency
 validate_parameters () {
