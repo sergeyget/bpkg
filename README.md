@@ -1,3 +1,4 @@
+# bpkg_advanced  [![Build Status](https://travis-ci.org/sergeyget/bpkg_advanced.svg?branch=master)](https://travis-ci.org/sergeyget/bpkg_advanced)
 
 _JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg!_
 
