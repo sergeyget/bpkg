@@ -3,6 +3,6 @@
   "version": "0.3.0",
   "description": "Lightweight bash package manager",
   "global": true,
-  "repo": "bpkg/bpkg",
+  "repo": "sergeyget/bpkg_advanced",
   "install": "bash setup.sh"
 }
