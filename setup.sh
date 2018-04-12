@@ -9,7 +9,7 @@
 #        "               ""
 #        bash package manager
 
-REMOTE=${REMOTE:-git@github.com:sergeyget/bpkg_advanced.git}
+REMOTE=${REMOTE:-https://github.com/sergeyget/bpkg_advanced.git}
 TMPDIR=${TMPDIR:-/opt}
 DEST=${DEST:-${TMPDIR}/bpkg-master}
 
