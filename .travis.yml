@@ -5,6 +5,3 @@ install:
 script:
 - bpkg update
 - bpkg list
-- bpkg show bpkg/github
-- sudo bpkg install bpkg/github -g
-- bpkg install bpkg/term
