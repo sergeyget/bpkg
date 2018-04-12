@@ -82,7 +82,7 @@ intro () {
   echo "It will prompt you for the bare minimum that is needed and provide"
   echo "defaults."
   echo
-  echo "See github.com/sergeyget/bpkg for more information on defining the bpkg"
+  echo "See github.com/sergeyget/bpkg_advanced for more information on defining the bpkg"
   echo "\`package.json' file."
   echo
   echo "You can press ^C anytime to quit this prompt. The \`package.json' file"

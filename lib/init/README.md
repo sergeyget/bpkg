@@ -4,14 +4,14 @@ bpkg-init
 Interactively generate a `package.json` for your [bpkg][bp]. Code, format,
 and instructions based heavily on [jwerle's][jw] [clib-init][cb].
 
-[bp]: https://github.com/sergeyget/bpkg/
+[bp]: https://github.com/sergeyget/bpkg_advanced/
 [jw]: https://github.com/jwerle/
 [cb]: https://github.com/jwerle/clib-init/
 
 install
 -------
 
-With [bpkg](https://github.com/sergeyget/bpkg):
+With [bpkg](https://github.com/sergeyget/bpkg_advanced):
 
 ```sh
 $ bpkg install benkogan/bpkg-init
@@ -36,7 +36,7 @@ This will walk you through initializing the bpkg `package.json` file.
 It will prompt you for the bare minimum that is needed and provide
 defaults.
 
-See github.com/sergeyget/bpkg for more information on defining the bpkg
+See github.com/sergeyget/bpkg_advanced for more information on defining the bpkg
 `package.json` file.
 
 You can press `^C` anytime to quit this prompt. The `package.json` file
@@ -49,7 +49,7 @@ This will walk you through initializing the bpkg `package.json` file.
 It will prompt you for the bare minimum that is needed and provide
 defaults.
 
-See github.com/sergeyget/bpkg for more information on defining the bpkg
+See github.com/sergeyget/bpkg_advanced for more information on defining the bpkg
 `package.json` file.
 
 You can press ^C anytime to quit this prompt. The `package.json` file

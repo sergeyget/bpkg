@@ -6,7 +6,7 @@ but with queries
 
 ## install
 
-[bpkg](https://github.com/sergeyget/bpkg)
+[bpkg](https://github.com/sergeyget/bpkg_advanced)
 
 ```sh
 $ bpkg install -g jwerle/suggest.sh

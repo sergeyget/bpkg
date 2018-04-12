@@ -32,10 +32,10 @@ bpkg_update_remote() {
   local auth=$BPKG_CURL_AUTH_PARAM
 
   if [ "$auth" == "" ]; then
-    wiki_url="$BPKG_REMOTE/wiki/sergeyget/bpkg/index.md"
+    wiki_url="$BPKG_REMOTE/wiki/sergeyget/bpkg_advanced/index.md"
   else
     # GHE wiki urls have a unique path structure
-    wiki_url="$BPKG_REMOTE/raw/wiki/sergeyget/bpkg/index.md"
+    wiki_url="$BPKG_REMOTE/raw/wiki/sergeyget/bpkg_advanced/index.md"
   fi
 
   #echo "curl -slo- $auth '$wiki_url' | grep -o '\[.*\](.*).*'"
