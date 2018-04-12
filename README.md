@@ -1,4 +1,4 @@
-# bpkg [![Build Status](https://travis-ci.org/bpkg/bpkg.svg?branch=master)](https://travis-ci.org/bpkg/bpkg)
+\# bpkg [![Build Status](https://travis-ci.org/bpkg/bpkg.svg?branch=master)](https://travis-ci.org/bpkg/bpkg)
 
 _JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg!_
 
@@ -66,7 +66,7 @@ To directly install `bpkg` from its source code you have to clone its repository
 
 ```sh
 $ git clone https://github.com/sergeyget/bpkg_advanced.git
-$ cd bpkg
+$ cd bpkg_advanced
 $ ./setup.sh
 ```
 
