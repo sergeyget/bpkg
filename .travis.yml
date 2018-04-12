@@ -3,5 +3,6 @@ sudo: required
 install:
 - sudo ./setup.sh
 script:
+- bpkg init
 - bpkg update
 - bpkg list
