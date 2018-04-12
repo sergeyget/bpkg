@@ -1,4 +1,4 @@
-\# bpkg [![Build Status](https://travis-ci.org/bpkg/bpkg.svg?branch=master)](https://travis-ci.org/bpkg/bpkg)
+\# bpkg [![Build Status](https://travis-ci.org/sergeyget/bpkg.svg?branch=master)](https://travis-ci.org/sergeyget/bpkg)
 
 _JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg!_
 
