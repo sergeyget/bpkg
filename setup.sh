@@ -9,8 +9,8 @@
 #        "               ""
 #        bash package manager
 
-REMOTE=${REMOTE:-https://github.com/bpkg/bpkg.git}
-TMPDIR=${TMPDIR:-/tmp}
+REMOTE=${REMOTE:-git@github.com:sergeyget/bpkg_advanced.git}
+TMPDIR=${TMPDIR:-/opt}
 DEST=${DEST:-${TMPDIR}/bpkg-master}
 
 ## test if command exists
